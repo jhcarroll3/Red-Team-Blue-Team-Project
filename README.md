@@ -1,4 +1,4 @@
-# Red-Team-Blue-Team-Project           Markup : ![picture alt](![red-team-vs-blue-team-940x588 png](https://user-images.githubusercontent.com/71728731/139175682-e06078a1-5386-408e-8443-97ef09bf7d65.jpg))
+# Red-Team-Blue-Team-Project           (![red-team-vs-blue-team-940x588 png](https://user-images.githubusercontent.com/71728731/139175682-e06078a1-5386-408e-8443-97ef09bf7d65.jpg)
         
                                    
 

@@ -5,7 +5,7 @@
 ## Table of Contents
 This document contains the following sections:
 
-[Network-Topology](https://github.com/jhcarroll3/Red-Team-Blue-Team-Project/blob/main/Project%202%20-%20Network%20Topology.pdf)
+[Network-Topology](https://github.com/jhcarroll3/Red-Team-Blue-Team-Project/blob/main/Network%20Topology.pdf)
 
 [Red-Team:_Security_Assessment](https://github.com/jhcarroll3/Red-Team-Blue-Team-Project/blob/main/Red_Team_Assessment.pdf)
 

@@ -1,9 +1,9 @@
 # Red-Team-Blue-Team-Project# Red-Team-Blue-Team-Project
 
 ## Capstone Engagement
-# :Assessment, Analysis, and Hardening of a Vulnerable System
+### Assessment, Analysis, and Hardening of a Vulnerable System
 
-# Table of Contents
+## Table of Contents
 This document contains the following sections:
 
 ![Network-Topology]https://github.com/jhcarroll3/Red-Team-Blue-Team-Project/blob/main/Project%202%20-%20Network%20Topology.pdf

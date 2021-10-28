@@ -1,4 +1,4 @@
-# Red-Team-Blue-Team-Project
+# Red-Team-Blue-Team-Project                                        ![Red v Blue] (https://sectigostore.com/blog/wp-content/uploads/2020/12/red-team-vs-blue-team-940x588.jpg)
 
 ## Capstone Engagement
 ### Assessment, Analysis, and Hardening of a Vulnerable System

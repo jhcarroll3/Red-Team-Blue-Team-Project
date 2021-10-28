@@ -12,3 +12,8 @@ This document contains the following sections:
 [Blue-Team: Log_Analysis_and_Attack_Characterization](https://github.com/jhcarroll3/Red-Team-Blue-Team-Project/blob/main/Blue_Team.pdf)
 
 [Hardening: Proposed_Alarms_and_Mitigation_Strategies](https://github.com/jhcarroll3/Red-Team-Blue-Team-Project/blob/main/Hardening.pdf)
+
+
+# Outlook on Project:
+
+

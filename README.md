@@ -1,4 +1,5 @@
-# Red-Team-Blue-Team-Project                  Markup : ![![red-team-vs-blue-team-200x150.png](https://user-images.githubusercontent.com/71728731/139175295-c67da47a-f50c-41d3-a11d-cc83c992ba89.jpg)](http://via.placeholder.com/200x150 "Title is optional")
+# Red-Team-Blue-Team-Project           Markup : ![picture alt](![red-team-vs-blue-team-940x588 png](https://user-images.githubusercontent.com/71728731/139175682-e06078a1-5386-408e-8443-97ef09bf7d65.jpg))
+        
                                    
 
 

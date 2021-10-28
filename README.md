@@ -1,5 +1,4 @@
-# Red-Team-Blue-Team-Project                                        Markup : ![pictur![red-team-vs-blue-team-940x588 png](https://user-images.githubusercontent.com/71728731/139175061-fe58a402-8cb7-4603-80fa-76367337f949.jpg)
-e alt](http://via.placeholder.com/200x150 "Title is optional")
+# Red-Team-Blue-Team-Project                                        Markup : ![pictur![red-team-vs-blue-team-940x588 png]
 
 
 ## Capstone Engagement

@@ -1,4 +1,4 @@
-# Red-Team-Blue-Team-Project# Red-Team-Blue-Team-Project
+# Red-Team-Blue-Team-Project
 
 ## Capstone Engagement
 ### Assessment, Analysis, and Hardening of a Vulnerable System
